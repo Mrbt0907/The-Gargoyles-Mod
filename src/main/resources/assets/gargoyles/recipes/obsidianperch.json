@@ -1,0 +1,16 @@
+{
+    "conditions": [{
+        "type": "minecraft:item_exists",
+        "item": "minecraft:obsidian"
+    }],
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " S ",
+        "SSS",
+        "SSS"
+    ],
+    "key": {
+        "S": { "item": "minecraft:obsidian" }
+    },
+    "result": { "item": "gargoyles:obsidianperch" }
+}

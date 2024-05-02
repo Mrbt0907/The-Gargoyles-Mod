@@ -1,0 +1,5 @@
+{
+    "gargoyleLiving": { "sounds": ["gargoyles:gargoyleliving1", "gargoyles:gargoyleliving2", "gargoyles:gargoyleliving3"], "subtitle": "subtitles.gargoyleLiving"},
+    "gargoyleGrunt": { "sounds": ["gargoyles:gargoylegrunt1", "gargoyles:gargoylegrunt2", "gargoyles:gargoylegrunt3", "gargoyles:gargoylegrunt4"], "subtitle": "subtitles.gargoyleHurt"},
+    "gargoyleDeath": { "sounds": ["gargoyles:gargoyledeath"], "subtitle": "subtitles.gargoyleDeath"}
+}

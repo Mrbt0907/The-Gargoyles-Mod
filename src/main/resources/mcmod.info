@@ -1,0 +1,15 @@
+[
+{
+  "modid": "gargoyles",
+  "name": "Gargoyles Mod",
+  "description": "A mod that adds Gargoyles: a potentially vanilla mob that guards areas with incredible precision.",
+  "version": "1.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Enderman_of_D00M"],
+  "credits": "Created by Enderman_of_D00M.",
+  "screenshots": [],
+  "dependencies": []
+}
+]

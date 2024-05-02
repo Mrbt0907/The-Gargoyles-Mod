@@ -1,0 +1,16 @@
+{
+    "conditions": [{
+        "type": "minecraft:item_exists",
+        "item": "minecraft:end_stone"
+    }],
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " S ",
+        "SSS",
+        "SSS"
+    ],
+    "key": {
+        "S": { "item": "minecraft:end_stone" }
+    },
+    "result": { "item": "gargoyles:endstoneperch" }
+}

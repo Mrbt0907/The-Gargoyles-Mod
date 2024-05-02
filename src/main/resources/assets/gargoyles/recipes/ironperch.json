@@ -1,0 +1,16 @@
+{
+    "conditions": [{
+        "type": "minecraft:item_exists",
+        "item": "minecraft:iron_block"
+    }],
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " S ",
+        "SSS",
+        "SSS"
+    ],
+    "key": {
+        "S": { "item": "minecraft:iron_block" }
+    },
+    "result": { "item": "gargoyles:ironperch" }
+}

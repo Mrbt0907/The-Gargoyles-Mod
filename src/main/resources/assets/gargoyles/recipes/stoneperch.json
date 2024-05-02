@@ -1,0 +1,16 @@
+{
+    "conditions": [{
+        "type": "minecraft:item_exists",
+        "item": "minecraft:cobblestone"
+    }],
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " S ",
+        "SSS",
+        "SSS"
+    ],
+    "key": {
+        "S": { "item": "minecraft:cobblestone" }
+    },
+    "result": { "item": "gargoyles:stoneperch" }
+}
