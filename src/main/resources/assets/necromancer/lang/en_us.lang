@@ -1,0 +1,30 @@
+##MCA
+
+##Entities
+
+#Mobs
+
+#Bosses
+entity.zombie_tame.name=Zombie
+entity.husk_tame.name=Husk
+entity.pigzombie_tame.name=Zombie Pigman
+entity.skeleton_tame.name=Skeleton
+entity.stray_tame.name=Stray
+entity.wither_skeleton_tame.name=Wither Skeleton
+entity.necromancer.name=Necromancer
+
+#Projectiles
+
+##Blocks
+
+#Blocks
+
+#Items
+item.necro_staff.name=Necromancer's Staff
+item.necro_head.name=Necromancer's Hood
+item.necro_chest.name=Necromancer's Robes
+item.necro_legs.name=Necromancer's Curass
+item.necro_feet.name=Necromancer's Shoes
+
+#Kill messages
+death.attack.bleed=%1$s bled out

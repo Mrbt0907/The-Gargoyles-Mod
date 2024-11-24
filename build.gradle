@@ -11,8 +11,8 @@ apply plugin: 'net.minecraftforge.gradle.forge'
 //Only edit below this line, the above code adds and enables the necessary things for Forge to be setup.
 
 version = "1.0"
-group = "net.gargoyles"
-archivesBaseName = "Gargoyles_Mod"
+group = "net.endermanofdoom.necromancer"
+archivesBaseName = "Necromancer Mod"
 
 sourceCompatibility = targetCompatibility = '1.8'
 compileJava {

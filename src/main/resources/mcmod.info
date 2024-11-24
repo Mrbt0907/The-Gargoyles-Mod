@@ -1,9 +1,9 @@
 [
 {
-  "modid": "gargoyles",
-  "name": "Gargoyles Mod",
-  "description": "A mod that adds Gargoyles: a potentially vanilla mob that guards areas with incredible precision.",
-  "version": "1.1",
+  "modid": "necromancer",
+  "name": "Necromancer Mod",
+  "description": "Where do the undead come from? Mushrooms can't answer all of them, especially the Skeletons. Well this special outcast Illager is the answer: The Necromancer, a powerful corrupted Illager who became consumed by Dark Magic. Slay him to gain his items, and use the powers of a Necromancer yourself.",
+  "version": "1.0",
   "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
